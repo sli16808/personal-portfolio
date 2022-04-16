@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    padding: 0.5rem 1rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-logo {
+    width: 2rem;
+    height: auto;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+}
+
+header li {
+    padding: 0 1rem;
+}
+
+footer li {
+    padding: 0 2rem;
+}
+
+li a {
+    text-decoration: none;
+}
